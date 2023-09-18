@@ -1,0 +1,5 @@
+#The codesare for passwird generating
+
+The main difference is the use of:<br>
+1.Secrets module in the pas_2.py as well as secrets.choice() to randomlyselect from range of int, characers and letters<br>
+2. Use of Random module<br>
